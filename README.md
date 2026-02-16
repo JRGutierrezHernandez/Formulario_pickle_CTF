@@ -1,6 +1,6 @@
 
 # Formulario Web con Restauración de Estado, Guardado en Tiempo Real y Exportación a PDF
-
+<img width="1653" height="825" alt="Image" src="https://github.com/user-attachments/assets/a76bc414-31f0-40f2-a881-5a957bfdb1d0" />
 Este proyecto es una aplicación web desarrollada con Python y Flask que permite capturar información de un formulario estructurado, guardar automáticamente los datos en tiempo real, restaurar el estado del sistema al volver a ejecutarlo y generar un archivo PDF con la información registrada.
 
 El sistema implementa persistencia de datos mediante serialización de objetos usando el módulo `pickle` de Python.
