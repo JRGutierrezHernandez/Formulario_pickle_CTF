@@ -43,6 +43,9 @@ Demostrar la restauración del estado de ejecución de un sistema mediante:
 - ReportLab (generación de PDF)
 
 ---
+## Img Archivo datos.pkl
+<img width="1407" height="188" alt="Image" src="https://github.com/user-attachments/assets/78b7a585-a5d4-4562-b851-d00952cdd0e4" />
+---
 
 ## ⚙️ Instalación
 
@@ -209,8 +212,3 @@ pickle no debe usarse con datos no confiables
 el archivo PDF se sobrescribe en cada guardado
 
 el servidor debe estar activo para funcionar
-
----
-
-# Archivo datos.pkl
-<img width="1407" height="188" alt="Image" src="https://github.com/user-attachments/assets/78b7a585-a5d4-4562-b851-d00952cdd0e4" />
