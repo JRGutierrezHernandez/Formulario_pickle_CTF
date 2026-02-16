@@ -1,4 +1,4 @@
-📄 README.md
+
 # 🧾 Sistema de Formulario Web con Restauración de Estado, Guardado en Tiempo Real y Exportación a PDF
 
 Este proyecto es una aplicación web desarrollada con Python y Flask que permite capturar información de un formulario estructurado, guardar automáticamente los datos en tiempo real, restaurar el estado del sistema al volver a ejecutarlo y generar un archivo PDF con la información registrada.
