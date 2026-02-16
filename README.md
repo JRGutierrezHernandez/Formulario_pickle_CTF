@@ -45,7 +45,7 @@ Demostrar la restauración del estado de ejecución de un sistema mediante:
 ---
 ## Img Archivo datos.pkl
 <img width="1407" height="188" alt="Image" src="https://github.com/user-attachments/assets/78b7a585-a5d4-4562-b851-d00952cdd0e4" />
----
+
 
 ## ⚙️ Instalación
 
