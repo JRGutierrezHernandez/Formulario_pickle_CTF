@@ -52,7 +52,7 @@ Instalar dependencias:
 pip install flask
 pip install reportlab
 
-### ▶️ Ejecución del sistema
+▶️ Ejecución del sistema
 
 Ejecutar el servidor:
 
