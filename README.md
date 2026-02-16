@@ -45,8 +45,13 @@ Demostrar la restauración del estado de ejecución de un sistema mediante:
 ---
 ## Img Archivo datos.pkl
 <img width="1407" height="188" alt="Image" src="https://github.com/user-attachments/assets/78b7a585-a5d4-4562-b851-d00952cdd0e4" />
+
+---
+
 ## Img Servidor
 <img width="1467" height="362" alt="Image" src="https://github.com/user-attachments/assets/f074b908-796e-4627-9618-8c1f544b042a" />
+
+---
 ## Img Archivo formulario.pdf
 <img width="1170" height="683" alt="Image" src="https://github.com/user-attachments/assets/4dd12f3e-f5f8-49ad-84ea-ed0d8f0adfaa" />
 
