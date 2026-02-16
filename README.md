@@ -1,5 +1,5 @@
 
-# 🧾 Sistema de Formulario Web con Restauración de Estado, Guardado en Tiempo Real y Exportación a PDF
+# Formulario Web con Restauración de Estado, Guardado en Tiempo Real y Exportación a PDF
 
 Este proyecto es una aplicación web desarrollada con Python y Flask que permite capturar información de un formulario estructurado, guardar automáticamente los datos en tiempo real, restaurar el estado del sistema al volver a ejecutarlo y generar un archivo PDF con la información registrada.
 
@@ -44,25 +44,6 @@ Demostrar la restauración del estado de ejecución de un sistema mediante:
 
 ---
 
-## 📁 Estructura del proyecto
-
-
-
-proyecto_formulario/
-│
-├── servidor.py
-├── datos.pkl
-├── formulario.pdf
-│
-├── static/
-│ └── estilos.css
-│
-└── templates/
-└── formulario.html
-
-
----
-
 ## ⚙️ Instalación
 
 Instalar dependencias:
@@ -71,7 +52,7 @@ Instalar dependencias:
 pip install flask
 pip install reportlab
 
-▶️ Ejecución del sistema
+### ▶️ Ejecución del sistema
 
 Ejecutar el servidor:
 
